@@ -43,7 +43,7 @@ require_once('header.php')
                     </div>
                     <div class="col-lg-6">
                         <div class="about-avatar">
-                            <img class="aaa" src="icon.jpg" alt="">
+                            <img class="aaa" src="icon.jpg" alt="" width="75%">
                         </div>
                     </div>
                 </div>
