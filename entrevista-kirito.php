@@ -9,7 +9,7 @@ require_once('head.php')
 require_once('header.php')
 ?>
 
-<div class="container-fluid" background-image="KIRITO.png">
+<div class="container-fluid">
   <h3>Entrevista a Egil Stalcalm</h3>
     <p> Para romper el hielo, mi primer articulo va a ser a mi amigo <a href="https://www.instagram.com/egil_stalcalm/" target="_blank">Egil</a>, larper que conozco de hace un par de años, pero que tiene una larga trayectoria en este mundo.
         Un placer tenerte por aqui, para los que no te conozcan, hablame un poco de ti.
@@ -72,6 +72,7 @@ require_once('header.php')
     <p><a class="navtitulo">EME.</a>Muchas gracias por pasarte Egil, muy buena reflexion final. Un fuerte abrazo, no seas muy malo</p>
 
 <br>
+<img src="KIRITO.png" width="55%">
 <br>
     <p>Hasta aqui la primera entrevista del Blog. Como hemos visto, Alejandro tiene una larga historia y varios puntos interesantes ¿Que opinas sobre Egil? Te leo por Instagram!</p>
 </div>
