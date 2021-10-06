@@ -15,6 +15,14 @@
             <li class="nav-item">
               <a class="nav-link titulo" href="aboutme.php">Sobre mi</a>
             </li>
+            <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle titulo" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Entrevistas
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="entrevista-kirito.php">Egil</a>
+        </div>
+      </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
           <img src="swords.png" class="img-fluid" alt="Responsive image">

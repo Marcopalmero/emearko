@@ -21,6 +21,12 @@ p{
   font-family: Century Gothic, sans-serif;
   text-shadow: 0 0 20px #ffffff, 0 0 12px #3bfc00;
 }
+.kirito{
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+  text-shadow: 0 0 20px #ffffff, 0 0 12px #ff0000;
+}
+
 .aaa{
   border-radius: 7px;
 }
