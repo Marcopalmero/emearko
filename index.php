@@ -2,13 +2,15 @@
 <html lang="en">
   <head>
   <?php 
-require_once('head.php')
+include('head.php')
 ?>
   </head>
   <body>
 <header>
+<?php $mi_pagina="index";
+?>
 <?php 
-require_once('header.php')
+include('header.php')
 ?>
 </header>
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -38,7 +40,7 @@ require_once('header.php')
 
 
       <?php 
-require_once('footer.php')
+include('footer.php')
 ?>
   </body>
 </html>

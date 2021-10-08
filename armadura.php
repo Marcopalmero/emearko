@@ -2,13 +2,13 @@
 <html lang="en">
   <head>
   <?php 
-require_once('head.php')
+include('head.php')
 ?>
   </head>
   <body>
 <header>
 <?php 
-require_once('header.php')
+include('header.php')
 ?>
 <div class="container-fluid">
 <p>
@@ -60,7 +60,7 @@ Va siendo hora de cambiarlas, es cierto, pero por ahora no me importa pisar char
 
 
 <?php 
-require_once('footer.php')
+include('footer.php')
 ?>
 </body>
 </html>

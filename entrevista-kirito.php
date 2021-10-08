@@ -1,12 +1,14 @@
 <html>
     <head>
     <?php 
-require_once('head.php')
+include('head.php')
 ?>
     </head>
     <body>
+    <?php $mi_pagina="entrevista";
+?>
     <?php 
-require_once('header.php')
+include('header.php')
 ?>
 
 <div class="container-fluid">
@@ -77,7 +79,7 @@ require_once('header.php')
 </div>
 
 <?php 
-require_once('footer.php')
+include('footer.php')
 ?>
     </body>
 </html>

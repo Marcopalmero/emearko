@@ -2,13 +2,15 @@
 <html lang="en">
   <head>
   <?php 
-require_once('head.php')
+include('head.php')
 ?>
   </head>
   <body>
 <header>
+<?php $mi_pagina="aboutme";
+?>
 <?php 
-require_once('header.php')
+include('header.php')
 ?>
 <section class="section about-section gray-bg" id="about">
             <div class="container">
@@ -78,7 +80,7 @@ require_once('header.php')
             </div>
         </section>
 <?php 
-require_once('footer.php')
+include('footer.php')
 ?>
 </body>
 </html>

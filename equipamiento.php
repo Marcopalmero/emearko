@@ -1,12 +1,14 @@
 <html>
     <head>
     <?php 
-require_once('head.php')
+include('head.php')
 ?>
     </head>
     <body>
+    <?php $mi_pagina="equipamiento";
+?>
     <?php 
-require_once('header.php')
+include('header.php')
 ?>
 
 <div class="card-group">
@@ -58,7 +60,7 @@ require_once('header.php')
 </div>
 
 <?php 
-require_once('footer.php')
+include('footer.php')
 ?>
     </body>
 </html>
